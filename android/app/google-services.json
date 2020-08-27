@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "368283498481",
+    "firebase_url": "https://adminstoreraveline.firebaseio.com",
+    "project_id": "adminstoreraveline",
+    "storage_bucket": "adminstoreraveline.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368283498481:android:83652c8acb576c16bb7650",
+        "android_client_info": {
+          "package_name": "br.com.ravelineadmstore.AdminRavelineStore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368283498481-63mamuk9tfkepsor7p5um1fep12qk7r5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ravelineadmstore.AdminRavelineStore",
+            "certificate_hash": "ac25e20a1df6eecc1e49149d127c5e8c63004101"
+          }
+        },
+        {
+          "client_id": "368283498481-558nbtnj2ijd2db3pvlo9qbs4osgo515.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH_sJh-fLJzItaBQq_y610KwM2noDrWMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368283498481-558nbtnj2ijd2db3pvlo9qbs4osgo515.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
